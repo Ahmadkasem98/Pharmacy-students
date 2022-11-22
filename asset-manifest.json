@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pharmacy-students/static/css/main.95380f89.css",
+    "main.js": "/pharmacy-students/static/js/main.315d1048.js",
+    "static/js/787.be7e65b9.chunk.js": "/pharmacy-students/static/js/787.be7e65b9.chunk.js",
+    "index.html": "/pharmacy-students/index.html",
+    "main.95380f89.css.map": "/pharmacy-students/static/css/main.95380f89.css.map",
+    "main.315d1048.js.map": "/pharmacy-students/static/js/main.315d1048.js.map",
+    "787.be7e65b9.chunk.js.map": "/pharmacy-students/static/js/787.be7e65b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95380f89.css",
+    "static/js/main.315d1048.js"
+  ]
+}
